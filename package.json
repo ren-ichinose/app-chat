@@ -1,0 +1,11 @@
+{
+  "name": "app-chat",
+  "version": "1.0.0",
+  "description": "チャットサービス",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "git@github.com:ren-ichinose/app-chat.git",
+  "license": "MIT"
+}
