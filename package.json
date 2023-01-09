@@ -9,6 +9,7 @@
   "repository": "git@github.com:ren-ichinose/app-chat.git",
   "license": "MIT",
   "dependencies": {
+    "http-auth": "4.1.9",
     "pug": "3.0.2"
   }
 }
